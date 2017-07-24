@@ -15,3 +15,4 @@ Example: M1 Zachary Cook
 
 ## Mod 1 Submitted Deliverables:
 * [Zach Cook DTR Complete ME project](https://gist.github.com/Balmung421/dad03ef4aa9b8ff2b1220b5ec9db0b91)
+* [Zach Cook DTR Black Thursday project](https://gist.github.com/Balmung421/4195fb07e41a35fc7aa1034f37f0f11a)
